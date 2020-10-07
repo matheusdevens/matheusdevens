@@ -2,7 +2,7 @@
 
 ## Hello world!
 
-**English**:
+**English**: <br>
 My name is Matheus.
 I am currently 16 years old.
 
