@@ -2,7 +2,7 @@
 
 ## Hello world!
 
-#**English**:
+**English**:
 My name is Matheus.
 I am currently 16 years old.
 
@@ -19,7 +19,7 @@ to improve the quality of life and health of animals in general.
 Below is some curious information about me on the schedule.
 I hope you like it and maybe you will learn something with the knowledge I currently have.
 
-#**Português**:
+**Português**:
 Meu nome é Matheus.
 Eu tenho atualmente 16 anos.
 
