@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/sHk0hXO.png">
+<img align="right" src="https://ik.imagekit.io/danilovieira/undraw_hacker_mind_6y85_Zn1Vl8GZC.png" width="350"/>
 
 ## Hello world!
 
