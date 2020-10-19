@@ -20,7 +20,7 @@ I hope you like it and maybe you will learn something with the knowledge I curre
 
 > Will we evolve the world with programming?
 
-- Favorite Languages: <br>
+- Languages i know: <br>
 <img src="https://www.python.org/static/apple-touch-icon-144x144-precomposed.png" width="15px"> Python <br>
 <img src="https://3.bp.blogspot.com/-PTty3CfTGnA/TpZOEjTQ_WI/AAAAAAAAAeo/KeKt_D5X2xo/s1600/js.jpg" width="15px"> Java Script <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="15px"> HTML5 <br>
