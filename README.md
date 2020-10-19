@@ -1,8 +1,7 @@
 <img align="right" src="https://ik.imagekit.io/danilovieira/undraw_hacker_mind_6y85_Zn1Vl8GZC.png" width="350"/>
 
-## Hello world!
+## Matheus Muniz
 
-**English**: <br>
 My name is Matheus.
 I am currently 16 years old.
 
@@ -18,25 +17,6 @@ to improve the quality of life and health of animals in general.
 
 Below is some curious information about me on the schedule.
 I hope you like it and maybe you will learn something with the knowledge I currently have.
-
-<br>
-
-**Português**: <br>
-Meu nome é Matheus.
-Eu tenho atualmente 16 anos.
-
-Sou apaixonado pelo jeito que o mundo é movido a programação.
-Sou um grande admirador da área de desenvolvimento web, programação e segurança da informação.
-Atualmente sempre tento me aperfeiçoar nos meus conhecimentos em algumas linguagens e na
-qualificação de minhas habilidades em certas áreas.
-
-Tenho o objetivo de me tornar um hacker ético enquanto não curso uma faculdade.
-A faculdade que sonho em me formar é na profissão de Médico Veterinário e poder
-usar os conhecimentos de programação que hoje tenho e que futuramente vou adquirir
-para melhorar a qualidade de vida e de saúde dos animais em geral.
-
-Abaixo vai algumas informações curiosas acerca de mim na programação.
-Espero que gostem e talvez você venha aprender algo com os conhecimentos que tenho atualmente.
 
 > Will we evolve the world with programming?
 
