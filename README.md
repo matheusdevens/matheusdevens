@@ -3,7 +3,7 @@
 ## Matheus Muniz
 
 My name is Matheus.
-I am currently 16 years old.
+I am currently 17 years old.
 
 I am passionate about the way the world is moved to programming.
 I am a great admirer in the area of web development, programming and information security.
@@ -27,4 +27,4 @@ I hope you like it and maybe you will learn something with the knowledge I curre
 <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width="15px"> CSS3
 
 - Currently learning: <br>
-<img src="https://thidu.dev/images/React.svg" width="15px"> ReactJS <br>
+<img src="https://davidwalsh.name/demo/nodejs.png" width="15px"> NodeJS <br>
